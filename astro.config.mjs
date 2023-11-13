@@ -1,5 +1,5 @@
 import { defineConfig } from 'astro/config';
-import unocss from 'unocss/astro'
+import unocss from '@unocss/astro'
 import react from "@astrojs/react";
 
 // https://astro.build/config
